@@ -1,4 +1,4 @@
-# IE0005 Project: Predicting Student Academic Performance Using Socioeconomic Factors
+# Predicting Student Academic Performance Using Socioeconomic Factors
 
 
 ## Predicting Student Academic Performance Using Socioeconomic Factors
